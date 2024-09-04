@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning htmx - it's very nice
 - 💞️ I’m looking to collaborate on - if you think I can help, I'll consider anything
 - 📫 How to reach me - b0x3n4dm1n@gmail.com
-- ⚡ Fun fact: 
+- ⚡ Amazing fact: Jeff Beck.
 
 <!---
 b0x3n/b0x3n is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
